@@ -13,6 +13,6 @@ Esta API informa não apenas quais carros estão em quais vagas, mas também a d
 #<h2>Detalhes Tecnico </h2>
 Stack utilizada: JAVA </BR>
 Framework: Spring </BR>
-API: Spring
+API: Spring</BR>
 Banco de dados: POSTGRESQL</BR>
 Gerenciamento de requisição da API: POSTMAN
