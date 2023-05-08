@@ -16,3 +16,7 @@ Framework: Spring </BR>
 API: Spring</BR>
 Banco de dados: POSTGRESQL</BR>
 Gerenciamento de requisição da API: POSTMAN
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
